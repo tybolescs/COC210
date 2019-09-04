@@ -10,5 +10,13 @@ package edu.samford.tyboles.survey;
  * @author Tyrone
  */
 public class SurveyResponse {
+// Attributes
+    protected Answer[] answers;
+    protected int numanswers;
+    
+    public SurveyResponse(int size) {
+        this.numanswers = 0;
+        this.answers = new Answer[size];
+    }
     
 }
