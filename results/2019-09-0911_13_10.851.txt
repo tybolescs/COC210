@@ -1,0 +1,9 @@
+5|Used Netbeans in introduction to programming but I need to relearn/remember lots of concepts
+3|Remember using classes in introduction to programming but not comfortable with them
+2|Used them a little  bit in introduction to programming
+1|Haven't done this before
+3|Did so if, while and for loops in introduction to programming but i need to jog my memory onthem
+2|Used them in intro to programming but wasn't the best at them
+1|Not sure how to do this
+1|Don't know what this is
+1|Don't think I have done this before
